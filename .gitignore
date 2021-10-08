@@ -12,6 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+### below 3 I have added to ignore ide related data ###
 .metadata
 .recommenders
 Servers
